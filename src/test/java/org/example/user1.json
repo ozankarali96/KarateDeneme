@@ -1,0 +1,11 @@
+{
+  "name": "Ozan",
+  "username": "ozankarali",
+  "email": "ozanKarali@gmail.com",
+  "address":{
+    "street": "Akgün",
+    "suite": "Kartal",
+    "city": "Istanbul",
+    "zipcode": "34798"
+  }
+}
